@@ -18,6 +18,10 @@ img {
 
 /* cover */
 
+.carousel-item {
+    width: 100%;
+}
+
 #cover {
     background: #222 url('img/stars.jpg') center center no-repeat;
     background-size: cover;
